@@ -19,3 +19,6 @@
 <h3>Таблица Gender: содержит информацию о полах<h3>
 
 <h3>Таблица Role: содержит информацию о должности<h3>
+ 
+ ![image](https://user-images.githubusercontent.com/80113075/194539326-5e108089-0bf2-4bd9-9500-934f3ecd4ee1.png)
+
